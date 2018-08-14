@@ -47,7 +47,7 @@ Suggestions to improve:
 }
  ```
  
- 
+### Additional Issues:
  
 ### JSON as first-class data type
 
